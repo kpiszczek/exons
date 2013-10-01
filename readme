@@ -1,0 +1,30 @@
+usage: exons.py [-h] gb_file pdb_file output_file_prefix
+
+Wizualizajca eksonów w strukturach białek.
+
+Program do poprawnego działania wymaga dostępu
+do narzędzia BLAST+ z poziomu ścieżki systemowej.
+
+positional arguments:
+  gb_file             pełna nazwa pliku .gb
+  pdb_file            pełna nazwa pliku .pdb
+  output_file_prefix  prefix nazw plików wyjściowych
+
+optional arguments:
+  -h, --help          show this help message and exit
+
+Program tworzy osobny plik wyjściowy w formacie 'csv',
+dla każdego łańcucha białka zapisanego w pliku .pdb.
+
+Pliki wyjściowe otrzymują nazwy zgodne ze schematem:
+'output_file_prefix_kod_łańcucha.csv',
+gdzie 'output_file_prefix' jest trzecim parametrem
+wejściowym programu.
+
+Każdy z plików wyjściowych zaweria pięć kolumn z danymi.
+(id, pdb, match, 2d, exon)
+id - numer kolejnego aminokwasu w dopasowanej sekwencji białka
+pdb - numer aminokwasu w sekwencji z pliku .pdb
+match - kod jednoliterowy aminokwasu
+2d - struktura dwuwymiarowa, w której znajduje się dany aminokwas
+exon - numer eksonu kodującego dany aminokwas

@@ -1,0 +1,307 @@
+LOCUS       NM_004622               3408 bp    mRNA    linear   PRI 17-APR-2013
+DEFINITION  Homo sapiens translin (TSN), transcript variant 1, mRNA.
+ACCESSION   NM_004622
+VERSION     NM_004622.2  GI:20302160
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3408)
+  AUTHORS   Gupta,G.D. and Kumar,V.
+  TITLE     Identification of nucleic acid binding sites on translin-associated
+            factor X (TRAX) protein
+  JOURNAL   PLoS ONE 7 (3), E33035 (2012)
+   PUBMED   22427937
+  REMARK    GeneRIF: Translin B3 motif, corresponding to TRAX B3 residues,
+            contributes towards its DNA binding activity.
+REFERENCE   2  (bases 1 to 3408)
+  AUTHORS   Ye,X., Huang,N., Liu,Y., Paroo,Z., Huerta,C., Li,P., Chen,S.,
+            Liu,Q. and Zhang,H.
+  TITLE     Structure of C3PO and mechanism of human RISC activation
+  JOURNAL   Nat. Struct. Mol. Biol. 18 (6), 650-657 (2011)
+   PUBMED   21552258
+  REMARK    GeneRIF: C3PO endonuclease is an asymmetric octamer barrel
+            consisting of six translin and two TRAX subunits which activates
+            RISC by degrading the Ago2-nicked passenger strand of siRNA.
+REFERENCE   3  (bases 1 to 3408)
+  AUTHORS   Kerns,S.L., Ostrer,H., Stock,R., Li,W., Moore,J., Pearlman,A.,
+            Campbell,C., Shao,Y., Stone,N., Kusnetz,L. and Rosenstein,B.S.
+  TITLE     Genome-wide association study to identify single nucleotide
+            polymorphisms (SNPs) associated with the development of erectile
+            dysfunction in African-American men after radiotherapy for prostate
+            cancer
+  JOURNAL   Int. J. Radiat. Oncol. Biol. Phys. 78 (5), 1292-1300 (2010)
+   PUBMED   20932654
+REFERENCE   4  (bases 1 to 3408)
+  AUTHORS   Chiaruttini,C., Vicario,A., Li,Z., Baj,G., Braiuca,P., Wu,Y.,
+            Lee,F.S., Gardossi,L., Baraban,J.M. and Tongiorgi,E.
+  TITLE     Dendritic trafficking of BDNF mRNA is mediated by translin and
+            blocked by the G196A (Val66Met) mutation
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (38), 16481-16486 (2009)
+   PUBMED   19805324
+  REMARK    GeneRIF: Findings implicate abnormal dendritic trafficking of BDNF
+            mRNA in the pathophysiology of neuropsychiatric disorders linked to
+            the translin G196A mutation.
+REFERENCE   5  (bases 1 to 3408)
+  AUTHORS   Sengupta,K., Kamdar,R.P., D'Souza,J.S., Mustafi,S.M. and Rao,B.J.
+  TITLE     GTP-induced conformational changes in translin: a comparison
+            between human and Drosophila proteins
+  JOURNAL   Biochemistry 45 (3), 861-870 (2006)
+   PUBMED   16411762
+  REMARK    GeneRIF: Human translin exhibits a stable octameric state and binds
+            ssDNA/RNA/dsDNA targets, all of which get attenuated when GTP is
+            added
+REFERENCE   6  (bases 1 to 3408)
+  AUTHORS   Kasai,M., Matsuzaki,T., Katayanagi,K., Omori,A., Maziarz,R.T.,
+            Strominger,J.L., Aoki,K. and Suzuki,K.
+  TITLE     The translin ring specifically recognizes DNA ends at recombination
+            hot spots in the human genome
+  JOURNAL   J. Biol. Chem. 272 (17), 11402-11407 (1997)
+   PUBMED   9111049
+REFERENCE   7  (bases 1 to 3408)
+  AUTHORS   Aoki,K., Ishida,R. and Kasai,M.
+  TITLE     Isolation and characterization of a cDNA encoding a Translin-like
+            protein, TRAX
+  JOURNAL   FEBS Lett. 401 (2-3), 109-112 (1997)
+   PUBMED   9013868
+REFERENCE   8  (bases 1 to 3408)
+  AUTHORS   Aoki,K., Suzuki,K., Sugano,T., Tasaka,T., Nakahara,K., Kuge,O.,
+            Omori,A. and Kasai,M.
+  TITLE     A novel gene, Translin, encodes a recombination hotspot binding
+            protein associated with chromosomal translocations
+  JOURNAL   Nat. Genet. 10 (2), 167-174 (1995)
+   PUBMED   7663511
+REFERENCE   9  (bases 1 to 3408)
+  AUTHORS   Kasai,M., Aoki,K., Matsuo,Y., Minowada,J., Maziarz,R.T. and
+            Strominger,J.L.
+  TITLE     Recombination hotspot associated factors specifically recognize
+            novel target sequences at the site of interchromosomal
+            rearrangements in T-ALL patients with t(8;14)(q24;q11) and
+            t(1;14)(p32;q11)
+  JOURNAL   Int. Immunol. 6 (7), 1017-1025 (1994)
+   PUBMED   7947454
+REFERENCE   10 (bases 1 to 3408)
+  AUTHORS   Aoki,K., Nakahara,K., Ikegawa,C., Seto,M., Takahashi,T.,
+            Minowada,J., Strominger,J.L., Maziarz,R.T. and Kasai,M.
+  TITLE     Nuclear proteins binding to a novel target sequence within the
+            recombination hotspot regions of Bcl-2 and the immunoglobulin DH
+            gene family
+  JOURNAL   Oncogene 9 (4), 1109-1115 (1994)
+   PUBMED   8134113
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from X78627.1, AL122099.1 and
+            X95076.1.
+            On Apr 24, 2002 this sequence version replaced gi:4759269.
+            
+            Summary: This gene encodes a DNA-binding protein which specifically
+            recognizes conserved target sequences at the breakpoint junction of
+            chromosomal translocations. Translin polypeptides form a multimeric
+            structure that is responsible for its DNA-binding activity.
+            Recombination-associated motifs and translin-binding sites are
+            present at recombination hotspots and may serve as indicators of
+            breakpoints in genes which are fused by translocations. These
+            binding activities may play a crucial role in chromosomal
+            translocation in lymphoid neoplasms. This protein encoded by this
+            gene, when complexed with translin-associated protein X, also forms
+            a Mg ion-dependent endoribonuclease that promotes RNA-induced
+            silencing complex (RISC) activation. Alternative splicing results
+            in multiple transcript variants. [provided by RefSeq, May 2012].
+            
+            Transcript Variant: This variant (1) represents the longest
+            transcript and encodes the longer isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X78627.1, BC002359.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           ERS025081, ERS025082 [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..3408
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2q21.1"
+     gene            1..3408
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /note="translin"
+                     /db_xref="GeneID:7247"
+                     /db_xref="HGNC:12379"
+                     /db_xref="HPRD:08993"
+                     /db_xref="MIM:600575"
+     exon            1..301
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    158..160
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /note="upstream in-frame stop codon"
+     CDS             236..922
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     recombination hotspot associated factor; recombination
+                     hotspot-binding protein; testis brain-RNA binding protein;
+                     component 3 of promoter of RISC"
+                     /codon_start=1
+                     /product="translin isoform 1"
+                     /protein_id="NP_004613.1"
+                     /db_xref="GI:4759270"
+                     /db_xref="CCDS:CCDS33284.1"
+                     /db_xref="GeneID:7247"
+                     /db_xref="HGNC:12379"
+                     /db_xref="HPRD:08993"
+                     /db_xref="MIM:600575"
+                     /translation="MSVSEIFVELQGFLAAEQDIREEIRKVVQSLEQTAREILTLLQG
+                     VHQGAGFQDIPKRCLKAREHFGTVKTHLTSLKTKFPAEQYYRFHEHWRFVLQRLVFLA
+                     AFVVYLETETLVTREAVTEILGIEPDREKGFHLDVEDYLSGVLILASELSRLSVNSVT
+                     AGDYSRPLHISTFINELDSGFRLLNLKNDSLRKRYDGLKYDVKKVEEVVYDLSIRGFN
+                     KETAAACVEK"
+     misc_feature    491..505
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q15631.1);
+                     Region: DNA/RNA binding"
+     misc_feature    764..829
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q15631.1);
+                     Region: Leucine-zipper (Potential)"
+     misc_feature    794..796
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine; propagated from
+                     UniProtKB/Swiss-Prot (Q15631.1); acetylation site"
+     misc_feature    830..832
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine; propagated from
+                     UniProtKB/Swiss-Prot (Q15631.1); acetylation site"
+     exon            302..395
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /inference="alignment:Splign:1.39.8"
+     exon            396..492
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /inference="alignment:Splign:1.39.8"
+     exon            493..608
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /inference="alignment:Splign:1.39.8"
+     exon            609..688
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /inference="alignment:Splign:1.39.8"
+     exon            689..3408
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /inference="alignment:Splign:1.39.8"
+     STS             2446..2573
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /standard_name="RH70915"
+                     /db_xref="UniSTS:52814"
+     STS             2598..2820
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /standard_name="D2S2498"
+                     /db_xref="UniSTS:40654"
+     STS             2604..2731
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /standard_name="A002S45"
+                     /db_xref="UniSTS:40183"
+     polyA_signal    2822..2827
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+     STS             3202..3343
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /standard_name="RH46068"
+                     /db_xref="UniSTS:62295"
+     polyA_site      3402
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+     polyA_site      3408
+                     /gene="TSN"
+                     /gene_synonym="BCLF-1; C3PO; RCHF1; REHF-1; TBRBP; TRSLN"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+ORIGIN      
+        1 cctttggacg cgcgcctcgg ttccgaacgc agcggacggc gcctcaggca gcgcggcgga
+       61 cagcccgtcc tccggcgcgc cgcgagcctc ggaggaccct agcgacggtc gtggcgtaag
+      121 accgggggga cgcggcggta gcggcggccg ttgcgattga ttgcgctggt tgcctgcggc
+      181 gtccacttcc ttggccgccc ttgctacact ggctgattgt tgtgcagccg gcgccatgtc
+      241 tgtgagcgag atcttcgtgg agctgcaggg ctttttggct gccgagcagg acatccgaga
+      301 ggaaatcaga aaagttgtac agagtttaga acaaacagct cgagagattt taactctact
+      361 gcaaggggtc catcagggtg ctgggtttca ggacattcca aagaggtgtt tgaaagctcg
+      421 agaacatttt ggtacagtaa aaacacatct aacatctttg aagaccaaat ttcctgctga
+      481 acagtattac agatttcatg agcactggag gtttgtgttg cagcgcttgg tcttcttggc
+      541 agcatttgtt gtgtatttgg aaacagaaac actagtgact cgagaagcag ttacagaaat
+      601 tcttggcatt gagccagatc gggagaaagg atttcatctg gatgtagaag attatctctc
+      661 aggagttcta attcttgcca gtgaactgtc gaggctgtct gtcaacagcg tgactgctgg
+      721 agactactcc cgacccctcc acatctccac cttcatcaat gagctggatt ccggttttcg
+      781 ccttctcaac ctgaaaaatg actccctgag gaagcgctac gacggattga aatatgacgt
+      841 gaagaaagta gaggaagtgg tctatgatct ctccatccgg ggctttaata aggagacggc
+      901 agcagcttgt gttgaaaaat aggaggctct ccttgctcct ggccttgctg acctcagcgg
+      961 ttgccaggaa ggggtgagca cagagtgcct cttacggtag ttaggatgct cagttgctaa
+     1021 acactgcgct ttattttctt aaccagttgt ggtgtgagta tcagaattga aacacttttt
+     1081 tgggggtaaa aaatatagcc tttacatgga cagaattttt tttgttgttt cagtgaatat
+     1141 gcctgtaatt cagtgtattt cagttccgtc agaaagtgta aatgttagtt tcttggtaaa
+     1201 gtccttttct tgcttacctt gactgttgat gtactgattg agaagttcat tgtctcgttt
+     1261 gtgattcttc cagatgtgat gcttgatatt ttctatatgc gagttagcca tccacaccca
+     1321 ggcatagcct ggatacagta taaaaataga taattaaaaa gatggttgcc aagcaaggaa
+     1381 aacttatttt atattttccc ttccttattt taagcattgt gagtaaatca gatgttgaat
+     1441 tcttttgcca agggaattat agctgcaggt tctctctcac tgccatcaaa ctgtaaaaga
+     1501 ttaaactgcg aagtcaagct caacagatta ttttggaaag tttttgtatt aagggattta
+     1561 gtaacatcat tttgttttcc accaggcagg gagtagggct tagtgtttta aaacacctct
+     1621 gctttctgat gttgccttaa tattctgcta ttgcagcaat taaaaattgt cttcatgtac
+     1681 atttggaact aacacgtgat gtgatatatt cctaaactat gaaacctttt tcctagtagt
+     1741 cagctagatc atttgttctg ggagtataaa gccacccacg taagttaata agcaaaatcc
+     1801 tgactattat gttgttagag aaaaatgctt tgctttgtct ggaagaaaga taaaatagtg
+     1861 aattataaat aagtcaggcc gggcgtggtg gctcacacct gtaatcccag cacactggga
+     1921 ggccgaggca gggggactgc ttgagctcag gagttcgaga ccagcctggg caacaaagtg
+     1981 agactccatc tctatataaa aacaaaaacc acgaaagcac acacaaaata aatcagtggg
+     2041 atttggtaat gtgttttaga gtaagaaatt tcaggttgtt ggtgactatc ccaacagtca
+     2101 tgttttaaat gtacagtttg gggcaagtca tgtaaatact gttggtggtc ttccccacac
+     2161 gccccaattt tcaggtagta ctaagagtat gtgccaggaa actcttgcta ttgaattgag
+     2221 atgattaaaa tggtgactta atccgtagtt attttgcacc cactgaaagg aaagtgcttt
+     2281 ccagaataat atgaagtatc taaaagtgtc accttttctt gcctgatcaa caatttgggc
+     2341 ttcctgtttg tacaaggggc catttggcat acctttcaca gcttttatca ggccaagtta
+     2401 aaggctgact acattttttc atcatgagga aagcagttga aatgaggcat gagttactgt
+     2461 gcattgggat tttagaacaa ttttcttgtg acagctcttt ttgtgaagtt aggttcttaa
+     2521 aagtgcccat gatggtcact taaaatgtgc agtaatagca ctgccaggat caagcatgaa
+     2581 aggcttttaa attagatcat cccacagaca atacgtttga taatagtttt ttcttttaac
+     2641 ctctttaagt attgattctg cttgagaata ttgaagtact tgccagaagt tgtggatttc
+     2701 agttttaaca aatgctatta aagtggagaa gcacactctg gtcttggaat tccatttgag
+     2761 gatttagaag tgtcatgttt ataactattc agttgtgttt gttgctggct tgttgtaaag
+     2821 caataaaatt tttttggtct ttttgtaagt gagtgtgctg ctgtaagaaa tctcccatgt
+     2881 gcataacaaa ttctgaatat tttttgaggc taaagaagac cggggtgaca agcagatact
+     2941 gctgtgtaat ggttacacta accaaaagac accagccact cagagttcta tactgtaaag
+     3001 cgcagataac atttgtgtgt tataccttga ttggggaatt aaaagtcatt taactgaaga
+     3061 tgttgagaaa cctgggctct ggttttagta taccggaatt acttttttcc aattttagaa
+     3121 aatcaagcag gttagagaaa atagagatga attaggggac actgtcttat ggattcattt
+     3181 ataagaagag aaccagccat atacacttgg ggagatttgc cacatcttaa acttgaataa
+     3241 tagtatgagt aatgcttaag ggagtttaat agagaaggaa agctttggca gtgttttgag
+     3301 aacttaagtg gctaaagaga tgagacaaac atgcaggtcg ctactggcat agtttcataa
+     3361 ttgtgtactc ggaaattaaa gtttgcttgt ttcttggtct ggattaaa
+//
+

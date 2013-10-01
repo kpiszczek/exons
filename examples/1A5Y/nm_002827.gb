@@ -1,0 +1,401 @@
+LOCUS       NM_002827               3573 bp    mRNA    linear   PRI 02-SEP-2013
+DEFINITION  Homo sapiens protein tyrosine phosphatase, non-receptor type 1
+            (PTPN1), transcript variant 1, mRNA.
+ACCESSION   NM_002827
+VERSION     NM_002827.3  GI:519666802
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3573)
+  AUTHORS   Bettaieb,A., Bakke,J., Nagata,N., Matsuo,K., Xi,Y., Liu,S.,
+            AbouBechara,D., Melhem,R., Stanhope,K., Cummings,B., Graham,J.,
+            Bremer,A., Zhang,S., Lyssiotis,C.A., Zhang,Z.Y., Cantley,L.C.,
+            Havel,P.J. and Haj,F.G.
+  TITLE     Protein tyrosine phosphatase 1B regulates pyruvate kinase M2
+            tyrosine phosphorylation
+  JOURNAL   J. Biol. Chem. 288 (24), 17360-17371 (2013)
+   PUBMED   23640882
+  REMARK    GeneRIF: PKM2 is a novel substrate of PTP1B tyrosine
+            phosphorylation.
+REFERENCE   2  (bases 1 to 3573)
+  AUTHORS   Luo,Y., Nie,Y.J., Shi,H.R., Ni,Z.F., Wang,Q., Wang,J.Z. and
+            Liu,G.P.
+  TITLE     PTPA activates protein phosphatase-2A through reducing its
+            phosphorylation at tyrosine-307 with upregulation of protein
+            tyrosine phosphatase 1B
+  JOURNAL   Biochim. Biophys. Acta 1833 (5), 1235-1243 (2013)
+   PUBMED   23428800
+  REMARK    GeneRIF: Our data indicate that PTPA may activate PP2A through
+            activating PTP1B and thus reducing the level of P-PP2AC, therefore
+            upregulation of PTPA may represent a potential strategy in rescuing
+            PP2A and arresting tau pathology in AD
+REFERENCE   3  (bases 1 to 3573)
+  AUTHORS   Ren,W., Sun,Y., Cheema,S. and Du,K.
+  TITLE     Interaction of constitutive photomorphogenesis 1 protein with
+            protein-tyrosine phosphatase 1B suppresses protein-tyrosine
+            phosphatase 1B activity and enhances insulin signaling
+  JOURNAL   J. Biol. Chem. 288 (15), 10902-10913 (2013)
+   PUBMED   23439647
+  REMARK    GeneRIF: COP1 physically interacted with PTP1B and suppressed PTP1B
+            phosphatase activity as well as the association of PTP1B with
+            IRbeta.
+REFERENCE   4  (bases 1 to 3573)
+  AUTHORS   Tonks,N.K.
+  TITLE     Protein tyrosine phosphatases--from housekeeping enzymes to master
+            regulators of signal transduction
+  JOURNAL   FEBS J. 280 (2), 346-378 (2013)
+   PUBMED   23176256
+  REMARK    GeneRIF: Studies show that the crystal structure of PTP1B, the form
+            of the placenta indicated the mechanism of PTP1B-mediated substrate
+            recognition and catalysis.
+            Review article
+REFERENCE   5  (bases 1 to 3573)
+  AUTHORS   Carbone,C.J., Zheng,H., Bhattacharya,S., Lewis,J.R., Reiter,A.M.,
+            Henthorn,P., Zhang,Z.Y., Baker,D.P., Ukkiramapandian,R., Bence,K.K.
+            and Fuchs,S.Y.
+  TITLE     Protein tyrosine phosphatase 1B is a key regulator of IFNAR1
+            endocytosis and a target for antiviral therapies
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 109 (47), 19226-19231 (2012)
+   PUBMED   23129613
+  REMARK    GeneRIF: PTP1B is a specific regulator of IFNAR1 endocytosis.
+REFERENCE   6  (bases 1 to 3573)
+  AUTHORS   Chen,J., Parsons,S. and Brautigan,D.L.
+  TITLE     Tyrosine phosphorylation of protein phosphatase 2A in response to
+            growth stimulation and v-src transformation of fibroblasts
+  JOURNAL   J. Biol. Chem. 269 (11), 7957-7962 (1994)
+   PUBMED   7510677
+REFERENCE   7  (bases 1 to 3573)
+  AUTHORS   Frangioni,J.V., Beahm,P.H., Shifrin,V., Jost,C.A. and Neel,B.G.
+  TITLE     The nontransmembrane tyrosine phosphatase PTP-1B localizes to the
+            endoplasmic reticulum via its 35 amino acid C-terminal sequence
+  JOURNAL   Cell 68 (3), 545-560 (1992)
+   PUBMED   1739967
+REFERENCE   8  (bases 1 to 3573)
+  AUTHORS   Brown-Shimer,S., Johnson,K.A., Lawrence,J.B., Johnson,C.,
+            Bruskin,A., Green,N.R. and Hill,D.E.
+  TITLE     Molecular cloning and chromosome mapping of the human gene encoding
+            protein phosphotyrosyl phosphatase 1B
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 87 (13), 5148-5152 (1990)
+   PUBMED   2164224
+REFERENCE   9  (bases 1 to 3573)
+  AUTHORS   Chernoff,J., Schievella,A.R., Jost,C.A., Erikson,R.L. and Neel,B.G.
+  TITLE     Cloning of a cDNA for a major human protein-tyrosine-phosphatase
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 87 (7), 2735-2739 (1990)
+   PUBMED   2157211
+REFERENCE   10 (bases 1 to 3573)
+  AUTHORS   Charbonneau,H., Tonks,N.K., Kumar,S., Diltz,C.D., Harrylock,M.,
+            Cool,D.E., Krebs,E.G., Fischer,E.H. and Walsh,K.A.
+  TITLE     Human placenta protein-tyrosine-phosphatase: amino acid sequence
+            and relationship to a family of receptor-like proteins
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 86 (14), 5252-5256 (1989)
+   PUBMED   2546149
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DC300354.1, BC015660.2,
+            DB332370.1 and AI474453.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jul 2, 2013 this sequence version replaced gi:18104977.
+            
+            Summary: The protein encoded by this gene is the founding member of
+            the protein tyrosine phosphatase (PTP) family, which was isolated
+            and identified based on its enzymatic activity and amino acid
+            sequence. PTPs catalyze the hydrolysis of the phosphate monoesters
+            specifically on tyrosine residues. Members of the PTP family share
+            a highly conserved catalytic motif, which is essential for the
+            catalytic activity. PTPs are known to be signaling molecules that
+            regulate a variety of cellular processes including cell growth,
+            differentiation, mitotic cycle, and oncogenic transformation. This
+            PTP has been shown to act as a negative regulator of insulin
+            signaling by dephosphorylating the phosphotryosine residues of
+            insulin receptor kinase. This PTP was also reported to
+            dephosphorylate epidermal growth factor receptor kinase, as well as
+            JAK2 and TYK2 kinases, which implicated the role of this PTP in
+            cell growth control, and cell response to interferon stimulation.
+            Two transcript variants encoding different isoforms have been found
+            for this gene. [provided by RefSeq, Jul 2013].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC015660.2, M31724.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           ERS025081, ERS025082 [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-71                DC300354.1         1-71
+            72-3352             BC015660.2         1-3281
+            3353-3554           DB332370.1         1-202               c
+            3555-3573           AI474453.1         1-19                c
+FEATURES             Location/Qualifiers
+     source          1..3573
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="20"
+                     /map="20q13.1-q13.2"
+     gene            1..3573
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /note="protein tyrosine phosphatase, non-receptor type 1"
+                     /db_xref="GeneID:5770"
+                     /db_xref="HGNC:9642"
+                     /db_xref="HPRD:01477"
+                     /db_xref="MIM:176885"
+     exon            1..270
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    82..84
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /note="upstream in-frame stop codon"
+     CDS             208..1515
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /EC_number="3.1.3.48"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     protein tyrosine phosphatase, placental; protein-tyrosine
+                     phosphatase 1B"
+                     /codon_start=1
+                     /product="tyrosine-protein phosphatase non-receptor type 1
+                     isoform 1"
+                     /protein_id="NP_002818.1"
+                     /db_xref="GI:4506289"
+                     /db_xref="CCDS:CCDS13430.1"
+                     /db_xref="GeneID:5770"
+                     /db_xref="HGNC:9642"
+                     /db_xref="HPRD:01477"
+                     /db_xref="MIM:176885"
+                     /translation="MEMEKEFEQIDKSGSWAAIYQDIRHEASDFPCRVAKLPKNKNRN
+                     RYRDVSPFDHSRIKLHQEDNDYINASLIKMEEAQRSYILTQGPLPNTCGHFWEMVWEQ
+                     KSRGVVMLNRVMEKGSLKCAQYWPQKEEKEMIFEDTNLKLTLISEDIKSYYTVRQLEL
+                     ENLTTQETREILHFHYTTWPDFGVPESPASFLNFLFKVRESGSLSPEHGPVVVHCSAG
+                     IGRSGTFCLADTCLLLMDKRKDPSSVDIKKVLLEMRKFRMGLIQTADQLRFSYLAVIE
+                     GAKFIMGDSSVQDQWKELSHEDLEPPPEHIPPPPRPPKRILEPHNGKCREFFPNHQWV
+                     KEETQEDKDCPIKEEKGSPLNAAPYGIESMSQDTEVRSRVVGGSLRGAQAASPAKGEP
+                     SLPEKDEDHALSYWKPFLVNMCVATVLTAGAYLCYRFLFNSNT"
+     misc_feature    208..210
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N-acetylmethionine; propagated from
+                     UniProtKB/Swiss-Prot (P18031.1); acetylation site"
+     misc_feature    265..267
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine; propagated from
+                     UniProtKB/Swiss-Prot (P18031.1); phosphorylation site"
+     misc_feature    355..357
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by PKB/AKT1, CLK1 and CLK2;
+                     propagated from UniProtKB/Swiss-Prot (P18031.1);
+                     phosphorylation site"
+     misc_feature    403..405
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by EGFR; propagated from
+                     UniProtKB/Swiss-Prot (P18031.1); phosphorylation site"
+     misc_feature    850..870
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P18031.1);
+                     Region: Substrate binding (By similarity)"
+     misc_feature    850..852
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S-nitrosocysteine, in reversibly inhibited form;
+                     propagated from UniProtKB/Swiss-Prot (P18031.1);
+                     nitrosylation site"
+     misc_feature    850..852
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Cysteine persulfide; propagated from
+                     UniProtKB/Swiss-Prot (P18031.1); sulfatation site"
+     misc_feature    931..933
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by CLK1 and CLK2; propagated from
+                     UniProtKB/Swiss-Prot (P18031.1); phosphorylation site"
+     misc_feature    934..936
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by CLK1 and CLK2; propagated from
+                     UniProtKB/Swiss-Prot (P18031.1); phosphorylation site"
+     misc_feature    1261..1263
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine; propagated from UniProtKB/Swiss-Prot
+                     (P18031.1); phosphorylation site"
+     misc_feature    1339..1341
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by PKC; propagated from
+                     UniProtKB/Swiss-Prot (P18031.1); phosphorylation site"
+     misc_feature    1363..1365
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by CDK1; propagated from
+                     UniProtKB/Swiss-Prot (P18031.1); phosphorylation site"
+     exon            271..361
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="alignment:Splign:1.39.8"
+     exon            362..462
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="alignment:Splign:1.39.8"
+     exon            463..561
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="alignment:Splign:1.39.8"
+     exon            562..699
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="alignment:Splign:1.39.8"
+     exon            700..909
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="alignment:Splign:1.39.8"
+     exon            910..1071
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1072..1295
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1084..1190
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /standard_name="PMC117295P1"
+                     /db_xref="UniSTS:270324"
+     STS             1106..1190
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /standard_name="PMC117295P2"
+                     /db_xref="UniSTS:270325"
+     exon            1296..1491
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1492..3562
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1504..1748
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /standard_name="STS-M31724"
+                     /db_xref="UniSTS:12715"
+     STS             2569..3350
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+                     /standard_name="PTPN1_1850"
+                     /db_xref="UniSTS:280940"
+     polyA_signal    3351..3356
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+     polyA_site      3374
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+     polyA_signal    3535..3540
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+     polyA_site      3562
+                     /gene="PTPN1"
+                     /gene_synonym="PTP1B"
+ORIGIN      
+        1 ccttctgctt caggggcgga gcccctggca ggcgtgatgc gtagttccgg ctgccggttg
+       61 acatgaagaa gcagcagcgg ctagggcggc ggtagctgca ggggtcgggg attgcagcgg
+      121 gcctcggggc taagagcgcg acgcggccta gagcggcaga cggcgcagtg ggccgagaag
+      181 gaggcgcagc agccgccctg gcccgtcatg gagatggaaa aggagttcga gcagatcgac
+      241 aagtccggga gctgggcggc catttaccag gatatccgac atgaagccag tgacttccca
+      301 tgtagagtgg ccaagcttcc taagaacaaa aaccgaaata ggtacagaga cgtcagtccc
+      361 tttgaccata gtcggattaa actacatcaa gaagataatg actatatcaa cgctagtttg
+      421 ataaaaatgg aagaagccca aaggagttac attcttaccc agggcccttt gcctaacaca
+      481 tgcggtcact tttgggagat ggtgtgggag cagaaaagca ggggtgtcgt catgctcaac
+      541 agagtgatgg agaaaggttc gttaaaatgc gcacaatact ggccacaaaa agaagaaaaa
+      601 gagatgatct ttgaagacac aaatttgaaa ttaacattga tctctgaaga tatcaagtca
+      661 tattatacag tgcgacagct agaattggaa aaccttacaa cccaagaaac tcgagagatc
+      721 ttacatttcc actataccac atggcctgac tttggagtcc ctgaatcacc agcctcattc
+      781 ttgaactttc ttttcaaagt ccgagagtca gggtcactca gcccggagca cgggcccgtt
+      841 gtggtgcact gcagtgcagg catcggcagg tctggaacct tctgtctggc tgatacctgc
+      901 ctcttgctga tggacaagag gaaagaccct tcttccgttg atatcaagaa agtgctgtta
+      961 gaaatgagga agtttcggat ggggctgatc cagacagccg accagctgcg cttctcctac
+     1021 ctggctgtga tcgaaggtgc caaattcatc atgggggact cttccgtgca ggatcagtgg
+     1081 aaggagcttt cccacgagga cctggagccc ccacccgagc atatcccccc acctccccgg
+     1141 ccacccaaac gaatcctgga gccacacaat gggaaatgca gggagttctt cccaaatcac
+     1201 cagtgggtga aggaagagac ccaggaggat aaagactgcc ccatcaagga agaaaaagga
+     1261 agccccttaa atgccgcacc ctacggcatc gaaagcatga gtcaagacac tgaagttaga
+     1321 agtcgggtcg tggggggaag tcttcgaggt gcccaggctg cctccccagc caaaggggag
+     1381 ccgtcactgc ccgagaagga cgaggaccat gcactgagtt actggaagcc cttcctggtc
+     1441 aacatgtgcg tggctacggt cctcacggcc ggcgcttacc tctgctacag gttcctgttc
+     1501 aacagcaaca catagcctga ccctcctcca ctccacctcc acccactgtc cgcctctgcc
+     1561 cgcagagccc acgcccgact agcaggcatg ccgcggtagg taagggccgc cggaccgcgt
+     1621 agagagccgg gccccggacg gacgttggtt ctgcactaaa acccatcttc cccggatgtg
+     1681 tgtctcaccc ctcatccttt tactttttgc cccttccact ttgagtacca aatccacaag
+     1741 ccattttttg aggagagtga aagagagtac catgctggcg gcgcagaggg aaggggccta
+     1801 cacccgtctt ggggctcgcc ccacccaggg ctccctcctg gagcatccca ggcgggcggc
+     1861 acgccaacag cccccccctt gaatctgcag ggagcaactc tccactccat atttatttaa
+     1921 acaatttttt ccccaaaggc atccatagtg cactagcatt ttcttgaacc aataatgtat
+     1981 taaaattttt tgatgtcagc cttgcatcaa gggctttatc aaaaagtaca ataataaatc
+     2041 ctcaggtagt actgggaatg gaaggctttg ccatgggcct gctgcgtcag accagtactg
+     2101 ggaaggagga cggttgtaag cagttgttat ttagtgatat tgtgggtaac gtgagaagat
+     2161 agaacaatgc tataatatat aatgaacacg tgggtattta ataagaaaca tgatgtgaga
+     2221 ttactttgtc ccgcttattc tcctccctgt tatctgctag atctagttct caatcactgc
+     2281 tcccccgtgt gtattagaat gcatgtaagg tcttcttgtg tcctgatgaa aaatatgtgc
+     2341 ttgaaatgag aaactttgat ctctgcttac taatgtgccc catgtccaag tccaacctgc
+     2401 ctgtgcatga cctgatcatt acatggctgt ggttcctaag cctgttgctg aagtcattgt
+     2461 cgctcagcaa tagggtgcag ttttccagga ataggcattt gcctaattcc tggcatgaca
+     2521 ctctagtgac ttcctggtga ggcccagcct gtcctggtac agcagggtct tgctgtaact
+     2581 cagacattcc aagggtatgg gaagccatat tcacacctca cgctctggac atgatttagg
+     2641 gaagcaggga caccccccgc cccccacctt tgggatcagc ctccgccatt ccaagtcaac
+     2701 actcttcttg agcagaccgt gatttggaag agaggcacct gctggaaacc acacttcttg
+     2761 aaacagcctg ggtgacggtc ctttaggcag cctgccgccg tctctgtccc ggttcacctt
+     2821 gccgagagag gcgcgtctgc cccaccctca aaccctgtgg ggcctgatgg tgctcacgac
+     2881 tcttcctgca aagggaactg aagacctcca cattaagtgg ctttttaaca tgaaaaacac
+     2941 ggcagctgta gctcccgagc tactctcttg ccagcatttt cacattttgc ctttctcgtg
+     3001 gtagaagcca gtacagagaa attctgtggt gggaacattc gaggtgtcac cctgcagagc
+     3061 tatggtgagg tgtggataag gcttaggtgc caggctgtaa gcattctgag ctgggcttgt
+     3121 tgtttttaag tcctgtatat gtatgtagta gtttgggtgt gtatatatag tagcatttca
+     3181 aaatggacgt actggtttaa cctcctatcc ttggagagca gctggctctc caccttgtta
+     3241 cacattatgt tagagaggta gcgagctgct ctgctatatg ccttaagcca atatttactc
+     3301 atcaggtcat tattttttac aatggccatg gaataaacca tttttacaaa aataaaaaca
+     3361 aaaaaagcaa ggtgttttgg tataatacct tttcaggtgt gtgtggatac gtggctgcat
+     3421 gaccgggtgg gtggggggga gtgtctcagg gtcttctgtg acctcacaga actgtcagac
+     3481 tgtacagttt tccaacttgc catattcatg atgggtttgc attttagctg caacaataaa
+     3541 atttttttct aaagaacatg aaaaaaaaaa aaa
+//
+

@@ -1,0 +1,470 @@
+LOCUS       NM_001122742            6466 bp    mRNA    linear   PRI 15-JUL-2013
+DEFINITION  Homo sapiens estrogen receptor 1 (ESR1), transcript variant 4,
+            mRNA.
+ACCESSION   NM_001122742
+VERSION     NM_001122742.1  GI:170295803
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6466)
+  AUTHORS   Srinivasan,S., Nwachukwu,J.C., Parent,A.A., Cavett,V., Nowak,J.,
+            Hughes,T.S., Kojetin,D.J., Katzenellenbogen,J.A. and Nettles,K.W.
+  TITLE     Ligand-binding dynamics rewire cellular signaling via estrogen
+            receptor-alpha
+  JOURNAL   Nat. Chem. Biol. 9 (5), 326-332 (2013)
+   PUBMED   23524984
+  REMARK    GeneRIF: ligand dynamics directs unique signaling pathways and
+            reveals a new role of the DBD in allosteric control of
+            ERalpha-mediated signaling
+REFERENCE   2  (bases 1 to 6466)
+  AUTHORS   Foulstone,E.J., Zeng,L., Perks,C.M. and Holly,J.M.
+  TITLE     Insulin-like growth factor binding protein 2 (IGFBP-2) promotes
+            growth and survival of breast epithelial cells: novel regulation of
+            the estrogen receptor
+  JOURNAL   Endocrinology 154 (5), 1780-1793 (2013)
+   PUBMED   23515291
+  REMARK    GeneRIF: IGFBP-2 not only modulates IGFs and directly regulates
+            PTEN but also has a role in maintaining ER-alpha expression.
+REFERENCE   3  (bases 1 to 6466)
+  AUTHORS   Mackay,H., Patterson,Z.R., Khazall,R., Patel,S., Tsirlin,D. and
+            Abizaid,A.
+  TITLE     Organizational effects of perinatal exposure to bisphenol-A and
+            diethylstilbestrol on arcuate nucleus circuitry controlling food
+            intake and energy expenditure in male and female CD-1 mice
+  JOURNAL   Endocrinology 154 (4), 1465-1475 (2013)
+   PUBMED   23493373
+  REMARK    GeneRIF: In female mice, perinatal exposure to low dose of BPA
+            resulted in increased ERalpha mRNA expression and high fat diet
+            resulted in elevated ERalpha expression among females that were
+            exposed to the high dose of BPA early in life. There were no
+            changes in males.
+REFERENCE   4  (bases 1 to 6466)
+  AUTHORS   Li,B.X., Li,J., Luo,C.L., Zhang,M.C., Li,H., Li,L.L., Xu,H.F.,
+            Shen,Y.W., Xue,A.M. and Zhao,Z.Q.
+  TITLE     Expression of JMJD2A in infiltrating duct carcinoma was markedly
+            higher than fibroadenoma, and associated with expression of ARHI,
+            p53 and ER in infiltrating duct carcinoma
+  JOURNAL   Indian J. Exp. Biol. 51 (3), 208-217 (2013)
+   PUBMED   23678541
+  REMARK    GeneRIF: Expression of JMJD2A in infiltrating duct carcinoma is
+            higher than in fibroadenoma, and is associated with ARHI, p53 and
+            ER
+REFERENCE   5  (bases 1 to 6466)
+  AUTHORS   Gottwald,L., Kubiak,R., Pasz-Walczak,G., Sek,P., Piekarski,J.,
+            Szwalski,J., Spych,M., Chalubinska-Fendler,J., Suzin,J.,
+            Tylinski,W. and Jeziorski,A.
+  TITLE     [The value of progesterone and estrogen receptors expression in
+            tissue microarray method in prognosis of patients with endometrioid
+            endometrial cancer]
+  JOURNAL   Ginekol. Pol. 84 (2), 95-101 (2013)
+   PUBMED   23668054
+  REMARK    GeneRIF: Expression of the progesterone and Estrogen Receptors can
+            significantly affect therapeutic decisions in selected patients
+            with endometroioid endometrial cancer.
+REFERENCE   6  (bases 1 to 6466)
+  AUTHORS   Reese,J.C. and Katzenellenbogen,B.S.
+  TITLE     Characterization of a temperature-sensitive mutation in the hormone
+            binding domain of the human estrogen receptor. Studies in cell
+            extracts and intact cells and their implications for
+            hormone-dependent transcriptional activation
+  JOURNAL   J. Biol. Chem. 267 (14), 9868-9873 (1992)
+   PUBMED   1577818
+REFERENCE   7  (bases 1 to 6466)
+  AUTHORS   Dotzlaw,H., Alkhalaf,M. and Murphy,L.C.
+  TITLE     Characterization of estrogen receptor variant mRNAs from human
+            breast cancers
+  JOURNAL   Mol. Endocrinol. 6 (5), 773-785 (1992)
+   PUBMED   1603086
+REFERENCE   8  (bases 1 to 6466)
+  AUTHORS   Piva,R., Gambari,R., Zorzato,F., Kumar,L. and del Senno,L.
+  TITLE     Analysis of upstream sequences of the human estrogen receptor gene
+  JOURNAL   Biochem. Biophys. Res. Commun. 183 (3), 996-1002 (1992)
+   PUBMED   1567414
+REFERENCE   9  (bases 1 to 6466)
+  AUTHORS   Keaveney,M., Klug,J. and Gannon,F.
+  TITLE     Sequence analysis of the 5' flanking region of the human estrogen
+            receptor gene
+  JOURNAL   DNA Seq. 2 (6), 347-358 (1992)
+   PUBMED   1476547
+  REMARK    Erratum:[DNA Seq 1992;3(3):201]
+REFERENCE   10 (bases 1 to 6466)
+  AUTHORS   Keaveney,M., Klug,J., Dawson,M.T., Nestor,P.V., Neilan,J.G.,
+            Forde,R.C. and Gannon,F.
+  TITLE     Evidence for a previously unidentified upstream exon in the human
+            oestrogen receptor gene
+  JOURNAL   J. Mol. Endocrinol. 6 (1), 111-115 (1991)
+   PUBMED   2015052
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-344               DA329077.1         1-344
+            345-3144            BC128573.1         80-2879
+            3145-3188           BE084831.1         171-214
+            3189-6466           AL078582.13        51058-54335
+FEATURES             Location/Qualifiers
+     source          1..6466
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="6"
+                     /map="6q25.1"
+     gene            1..6466
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /note="estrogen receptor 1"
+                     /db_xref="GeneID:2099"
+                     /db_xref="HGNC:3467"
+                     /db_xref="MIM:133430"
+     exon            1..169
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /inference="alignment:Splign:1.39.8"
+     exon            170..300
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /inference="alignment:Splign:1.39.8"
+     exon            301..822
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    317..319
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /note="upstream in-frame stop codon"
+     CDS             371..2158
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /note="estrogen receptor alpha delta 3*,4,5,6,7*/819-2
+                     isoform; estrogen receptor alpha delta 4 +49 isoform;
+                     estrogen receptor alpha delta 4*,5,6,7*/654 isoform;
+                     ER-alpha; estradiol receptor; nuclear receptor subfamily 3
+                     group A member 1; estrogen receptor alpha delta
+                     3*,4,5,6,7*,8*/941 isoform; estrogen receptor alpha delta
+                     4*,5,6,7,8*/901 isoform; estrogen receptor alpha
+                     3*,4,5,6,7*/822 isoform; estrogen nuclear receptor alpha;
+                     estrogen receptor alpha E1-E2-1-2; estrogen receptor alpha
+                     E1-N2-E2-1-2"
+                     /codon_start=1
+                     /product="estrogen receptor"
+                     /protein_id="NP_001116214.1"
+                     /db_xref="GI:170295804"
+                     /db_xref="CCDS:CCDS5234.1"
+                     /db_xref="GeneID:2099"
+                     /db_xref="HGNC:3467"
+                     /db_xref="MIM:133430"
+                     /translation="MTMTLHTKASGMALLHQIQGNELEPLNRPQLKIPLERPLGEVYL
+                     DSSKPAVYNYPEGAAYEFNAAAAANAQVYGQTGLPYGPGSEAAAFGSNGLGGFPPLNS
+                     VSPSPLMLLHPPPQLSPFLQPHGQQVPYYLENEPSGYTVREAGPPAFYRPNSDNRRQG
+                     GRERLASTNDKGSMAMESAKETRYCAVCNDYASGYHYGVWSCEGCKAFFKRSIQGHND
+                     YMCPATNQCTIDKNRRKSCQACRLRKCYEVGMMKGGIRKDRRGGRMLKHKRQRDDGEG
+                     RGEVGSAGDMRAANLWPSPLMIKRSKKNSLALSLTADQMVSALLDAEPPILYSEYDPT
+                     RPFSEASMMGLLTNLADRELVHMINWAKRVPGFVDLTLHDQVHLLECAWLEILMIGLV
+                     WRSMEHPGKLLFAPNLLLDRNQGKCVEGMVEIFDMLLATSSRFRMMNLQGEEFVCLKS
+                     IILLNSGVYTFLSSTLKSLEEKDHIHRVLDKITDTLIHLMAKAGLTLQQQHQRLAQLL
+                     LILSHIRHMSNKGMEHLYSMKCKNVVPLYDLLLEMLDAHRLHAPTSRGGASVEETDQS
+                     HLATAGSTSSHSLQKYYITGEAEGFPATV"
+     misc_feature    371..922
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03372.2);
+                     Region: Modulating (transactivation AF-1), mediates
+                     interaction with MACROD1"
+     misc_feature    473..892
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03372.2);
+                     Region: Interaction with DDX5, self-association"
+     misc_feature    473..511
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03372.2);
+                     Region: Required for interaction with NCOA1"
+     misc_feature    680..682
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by CDK2; propagated from
+                     UniProtKB/Swiss-Prot (P03372.2); phosphorylation site"
+     misc_feature    686..688
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by CDK2; propagated from
+                     UniProtKB/Swiss-Prot (P03372.2); phosphorylation site"
+     misc_feature    722..724
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine; propagated from UniProtKB/Swiss-Prot
+                     (P03372.2); phosphorylation site"
+     misc_feature    869..871
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine, by CK2; propagated from
+                     UniProtKB/Swiss-Prot (P03372.2); phosphorylation site"
+     misc_feature    923..1300
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03372.2);
+                     Region: Mediates interaction with DNTTIP2"
+     misc_feature    1121..1300
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03372.2);
+                     Region: Hinge"
+     misc_feature    1148..1150
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Asymmetric dimethylarginine, by PRMT1; propagated
+                     from UniProtKB/Swiss-Prot (P03372.2); methylation site"
+     misc_feature    1154..2155
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03372.2);
+                     Region: Interaction with AKAP13"
+     misc_feature    1160..2155
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03372.2);
+                     Region: Self-association"
+     misc_feature    1301..2155
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03372.2);
+                     Region: Transactivation AF-2"
+     misc_feature    1301..2023
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P03372.2);
+                     Region: Steroid-binding"
+     misc_feature    1979..1981
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by Tyr-kinases; propagated from
+                     UniProtKB/Swiss-Prot (P03372.2); phosphorylation site"
+     exon            823..1013
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1014..1130
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1131..1466
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1198..1283
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /standard_name="PMC13912P1"
+                     /db_xref="UniSTS:270873"
+     STS             1466..1552
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /standard_name="PMC60225P1"
+                     /db_xref="UniSTS:273398"
+     exon            1467..1605
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1547..1999
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /standard_name="Esr1"
+                     /db_xref="UniSTS:275685"
+     STS             1604..1681
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /standard_name="PMC60225P2"
+                     /db_xref="UniSTS:273399"
+     exon            1606..1739
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1740..1923
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1797..1984
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /standard_name="Esr1"
+                     /db_xref="UniSTS:143041"
+     STS             1884..1996
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /standard_name="BARC0078"
+                     /db_xref="UniSTS:277891"
+     exon            1924..6466
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /inference="alignment:Splign:1.39.8"
+     STS             2202..2329
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /standard_name="D6S1846"
+                     /db_xref="UniSTS:81161"
+     STS             2228..2297
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /standard_name="ESR1"
+                     /db_xref="UniSTS:479917"
+     STS             6249..6400
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /standard_name="RH103609"
+                     /db_xref="UniSTS:97934"
+     STS             6333..6438
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+                     /standard_name="PMC108984P2"
+                     /db_xref="UniSTS:270149"
+     polyA_signal    6448..6453
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+     polyA_signal    6456..6461
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+     polyA_site      6466
+                     /gene="ESR1"
+                     /gene_synonym="ER; Era; ESR; ESRA; NR3A1"
+ORIGIN      
+        1 atggtcataa cagcctcctg tctaccgact cagaacggat tttaccaaaa ctgaaaatgc
+       61 aggctccatg ctcagaagct ctttaacagg ctcgaaaggt ccatgctcct ttctcctgcc
+      121 cattctatag cataagaaga cagtctctga gtgataatct tctcttcaag aagaagaaaa
+      181 ctaggaagga gtaagcacaa agatctcttc acattctccg ggactgcggt accaaatatc
+      241 agcacagcac ttcttgaaaa aggatgtaga ttttaatctg aactttgaac catcactgag
+      301 gtggcccgcc ggtttctgag ccttctgccc tgcggggaca cggtctgcac cctgcccgcg
+      361 gccacggacc atgaccatga ccctccacac caaagcatct gggatggccc tactgcatca
+      421 gatccaaggg aacgagctgg agcccctgaa ccgtccgcag ctcaagatcc ccctggagcg
+      481 gcccctgggc gaggtgtacc tggacagcag caagcccgcc gtgtacaact accccgaggg
+      541 cgccgcctac gagttcaacg ccgcggccgc cgccaacgcg caggtctacg gtcagaccgg
+      601 cctcccctac ggccccgggt ctgaggctgc ggcgttcggc tccaacggcc tggggggttt
+      661 ccccccactc aacagcgtgt ctccgagccc gctgatgcta ctgcacccgc cgccgcagct
+      721 gtcgcctttc ctgcagcccc acggccagca ggtgccctac tacctggaga acgagcccag
+      781 cggctacacg gtgcgcgagg ccggcccgcc ggcattctac aggccaaatt cagataatcg
+      841 acgccagggt ggcagagaaa gattggccag taccaatgac aagggaagta tggctatgga
+      901 atctgccaag gagactcgct actgtgcagt gtgcaatgac tatgcttcag gctaccatta
+      961 tggagtctgg tcctgtgagg gctgcaaggc cttcttcaag agaagtattc aaggacataa
+     1021 cgactatatg tgtccagcca ccaaccagtg caccattgat aaaaacagga ggaagagctg
+     1081 ccaggcctgc cggctccgca aatgctacga agtgggaatg atgaaaggtg ggatacgaaa
+     1141 agaccgaaga ggagggagaa tgttgaaaca caagcgccag agagatgatg gggagggcag
+     1201 gggtgaagtg gggtctgctg gagacatgag agctgccaac ctttggccaa gcccgctcat
+     1261 gatcaaacgc tctaagaaga acagcctggc cttgtccctg acggccgacc agatggtcag
+     1321 tgccttgttg gatgctgagc cccccatact ctattccgag tatgatccta ccagaccctt
+     1381 cagtgaagct tcgatgatgg gcttactgac caacctggca gacagggagc tggttcacat
+     1441 gatcaactgg gcgaagaggg tgccaggctt tgtggatttg accctccatg atcaggtcca
+     1501 ccttctagaa tgtgcctggc tagagatcct gatgattggt ctcgtctggc gctccatgga
+     1561 gcacccaggg aagctactgt ttgctcctaa cttgctcttg gacaggaacc agggaaaatg
+     1621 tgtagagggc atggtggaga tcttcgacat gctgctggct acatcatctc ggttccgcat
+     1681 gatgaatctg cagggagagg agtttgtgtg cctcaaatct attattttgc ttaattctgg
+     1741 agtgtacaca tttctgtcca gcaccctgaa gtctctggaa gagaaggacc atatccaccg
+     1801 agtcctggac aagatcacag acactttgat ccacctgatg gccaaggcag gcctgaccct
+     1861 gcagcagcag caccagcggc tggcccagct cctcctcatc ctctcccaca tcaggcacat
+     1921 gagtaacaaa ggcatggagc atctgtacag catgaagtgc aagaacgtgg tgcccctcta
+     1981 tgacctgctg ctggagatgc tggacgccca ccgcctacat gcgcccacta gccgtggagg
+     2041 ggcatccgtg gaggagacgg accaaagcca cttggccact gcgggctcta cttcatcgca
+     2101 ttccttgcaa aagtattaca tcacggggga ggcagagggt ttccctgcca cggtctgaga
+     2161 gctccctggc tcccacacgg ttcagataat ccctgctgca ttttaccctc atcatgcacc
+     2221 actttagcca aattctgtct cctgcataca ctccggcatg catccaacac caatggcttt
+     2281 ctagatgagt ggccattcat ttgcttgctc agttcttagt ggcacatctt ctgtcttctg
+     2341 ttgggaacag ccaaagggat tccaaggcta aatctttgta acagctctct ttcccccttg
+     2401 ctatgttact aagcgtgagg attcccgtag ctcttcacag ctgaactcag tctatgggtt
+     2461 ggggctcaga taactctgtg catttaagct acttgtagag acccaggcct ggagagtaga
+     2521 cattttgcct ctgataagca ctttttaaat ggctctaaga ataagccaca gcaaagaatt
+     2581 taaagtggct cctttaattg gtgacttgga gaaagctagg tcaagggttt attatagcac
+     2641 cctcttgtat tcctatggca atgcatcctt ttatgaaagt ggtacacctt aaagctttta
+     2701 tatgactgta gcagagtatc tggtgattgt caattcattc cccctatagg aatacaaggg
+     2761 gcacacaggg aaggcagatc ccctagttgg caagactatt ttaacttgat acactgcaga
+     2821 ttcagatgtg ctgaaagctc tgcctctggc tttccggtca tgggttccag ttaattcatg
+     2881 cctcccatgg acctatggag agcagcaagt tgatcttagt taagtctccc tatatgaggg
+     2941 ataagttcct gatttttgtt tttatttttg tgttacaaaa gaaagccctc cctccctgaa
+     3001 cttgcagtaa ggtcagcttc aggacctgtt ccagtgggca ctgtacttgg atcttcccgg
+     3061 cgtgtgtgtg ccttacacag gggtgaactg ttcactgtgg tgatgcatga tgagggtaaa
+     3121 tggtagttga aaggagcagg ggccctggtg ttgcatttag ccctggggca tggagctgaa
+     3181 cagtacttgt gcaggattgt tgtggctact agagaacaag agggaaagta gggcagaaac
+     3241 tggatacagt tctgaggcac agccagactt gctcagggtg gccctgccac aggctgcagc
+     3301 tacctaggaa cattccttgc agaccccgca ttgccctttg ggggtgccct gggatccctg
+     3361 gggtagtcca gctcttcttc atttcccagc gtggccctgg ttggaagaag cagctgtcac
+     3421 agctgctgta gacagctgtg ttcctacaat tggcccagca ccctggggca cgggagaagg
+     3481 gtggggaccg ttgctgtcac tactcaggct gactggggcc tggtcagatt acgtatgccc
+     3541 ttggtggttt agagataatc caaaatcagg gtttggtttg gggaagaaaa tcctccccct
+     3601 tcctcccccg ccccgttccc taccgcctcc actcctgcca gctcatttcc ttcaatttcc
+     3661 tttgacctat aggctaaaaa agaaaggctc attccagcca cagggcagcc ttccctgggc
+     3721 ctttgcttct ctagcacaat tatgggttac ttcctttttc ttaacaaaaa agaatgtttg
+     3781 atttcctctg ggtgacctta ttgtctgtaa ttgaaaccct attgagaggt gatgtctgtg
+     3841 ttagccaatg acccaggtga gctgctcggg cttctcttgg tatgtcttgt ttggaaaagt
+     3901 ggatttcatt catttctgat tgtccagtta agtgatcacc aaaggactga gaatctggga
+     3961 gggcaaaaaa aaaaaaaaag tttttatgtg cacttaaatt tggggacaat tttatgtatc
+     4021 tgtgttaagg atatgtttaa gaacataatt cttttgttgc tgtttgttta agaagcacct
+     4081 tagtttgttt aagaagcacc ttatatagta taatatatat ttttttgaaa ttacattgct
+     4141 tgtttatcag acaattgaat gtagtaattc tgttctggat ttaatttgac tgggttaaca
+     4201 tgcaaaaacc aaggaaaaat atttagtttt tttttttttt tttgtatact tttcaagcta
+     4261 ccttgtcatg tatacagtca tttatgccta aagcctggtg attattcatt taaatgaaga
+     4321 tcacatttca tatcaacttt tgtatccaca gtagacaaaa tagcactaat ccagatgcct
+     4381 attgttggat actgaatgac agacaatctt atgtagcaaa gattatgcct gaaaaggaaa
+     4441 attattcagg gcagctaatt ttgcttttac caaaatatca gtagtaatat ttttggacag
+     4501 tagctaatgg gtcagtgggt tctttttaat gtttatactt agattttctt ttaaaaaaat
+     4561 taaaataaaa caaaaaaaaa tttctaggac tagacgatgt aataccagct aaagccaaac
+     4621 aattatacag tggaaggttt tacattattc atccaatgtg tttctattca tgttaagata
+     4681 ctactacatt tgaagtgggc agagaacatc agatgattga aatgttcgcc caggggtctc
+     4741 cagcaacttt ggaaatctct ttgtattttt acttgaagtg ccactaatgg acagcagata
+     4801 ttttctggct gatgttggta ttgggtgtag gaacatgatt taaaaaaaaa ctcttgcctc
+     4861 tgctttcccc cactctgagg caagttaaaa tgtaaaagat gtgatttatc tggggggctc
+     4921 aggtatggtg gggaagtgga ttcaggaatc tggggaatgg caaatatatt aagaagagta
+     4981 ttgaaagtat ttggaggaaa atggttaatt ctgggtgtgc accagggttc agtagagtcc
+     5041 acttctgccc tggagaccac aaatcaacta gctccattta cagccatttc taaaatggca
+     5101 gcttcagttc tagagaagaa agaacaacat cagcagtaaa gtccatggaa tagctagtgg
+     5161 tctgtgtttc ttttcgccat tgcctagctt gccgtaatga ttctataatg ccatcatgca
+     5221 gcaattatga gaggctaggt catccaaaga gaagacccta tcaatgtagg ttgcaaaatc
+     5281 taacccctaa ggaagtgcag tctttgattt gatttcccta gtaaccttgc agatatgttt
+     5341 aaccaagcca tagcccatgc cttttgaggg ctgaacaaat aagggactta ctgataattt
+     5401 acttttgatc acattaaggt gttctcacct tgaaatctta tacactgaaa tggccattga
+     5461 tttaggccac tggcttagag tactccttcc cctgcatgac actgattaca aatactttcc
+     5521 tattcatact ttccaattat gagatggact gtgggtactg ggagtgatca ctaacaccat
+     5581 agtaatgtct aatattcaca ggcagatctg cttggggaag ctagttatgt gaaaggcaaa
+     5641 tagagtcata cagtagctca aaaggcaacc ataattctct ttggtgcagg tcttgggagc
+     5701 gtgatctaga ttacactgca ccattcccaa gttaatcccc tgaaaactta ctctcaactg
+     5761 gagcaaatga actttggtcc caaatatcca tcttttcagt agcgttaatt atgctctgtt
+     5821 tccaactgca tttcctttcc aattgaatta aagtgtggcc tcgtttttag tcatttaaaa
+     5881 ttgttttcta agtaattgct gcctctatta tggcacttca attttgcact gtcttttgag
+     5941 attcaagaaa aatttctatt cttttttttg catccaattg tgcctgaact tttaaaatat
+     6001 gtaaatgctg ccatgttcca aacccatcgt cagtgtgtgt gtttagagct gtgcacccta
+     6061 gaaacaacat attgtcccat gagcaggtgc ctgagacaca gacccctttg cattcacaga
+     6121 gaggtcattg gttatagaga cttgaattaa taagtgacat tatgccagtt tctgttctct
+     6181 cacaggtgat aaacaatgct ttttgtgcac tacatactct tcagtgtaga gctcttgttt
+     6241 tatgggaaaa ggctcaaatg ccaaattgtg tttgatggat taatatgccc ttttgccgat
+     6301 gcatactatt actgatgtga ctcggttttg tcgcagcttt gctttgttta atgaaacaca
+     6361 cttgtaaacc tcttttgcac tttgaaaaag aatccagcgg gatgctcgag cacctgtaaa
+     6421 caattttctc aacctatttg atgttcaaat aaagaattaa actaaa
+//
+
